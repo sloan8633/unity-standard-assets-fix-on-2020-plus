@@ -12,3 +12,8 @@ ref:
 > - Import the Standard Assets.
 > - Fix the Standard Assets (no coding involved).
 > - Use the Standard Assets.
+
+修复步骤
+
+- 导入 Standard Assets（for Unity 2018.4）
+- 下载 repo 中的 StandardAssetsFix.unitypackage 并用 Unity 打开，import
